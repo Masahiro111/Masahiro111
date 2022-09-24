@@ -1,6 +1,6 @@
 # Welcome to Masahiro111's Profile 😀
 
-Hi, I'm Masahiro111. Currently studying Laravel in Chiba, Japan. I'm working hard to be able to create applications mainly with TALL Stack ('ω')ノ
+Hi, I'm Masahiro111. Currently studying Laravel in Chiba, Japan. I'm working hard to be able to create applications mainly with TALL Stack ٩(ˊᗜˋ*)و
 
 ## Cheet sheat list 📝
 
