@@ -2,7 +2,13 @@
 
 Hi, I'm Masahiro111. Currently studying Laravel in Chiba, Japan. I'm working hard to be able to create applications mainly with TALL Stack ٩(ˊᗜˋ*)و
 
-## Language I am studying 💬
+## Language I am studying 💓
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Alpine.js](https://alpinejs.dev/)
+- [Laravel](https://laravel.com/)
+- [Livewire](https://laravel-livewire.com/)
+
+Love TALL Stack 😻
 
 ## Cheet sheat list 📝
 - [How to make Basic Blog System with Laravel](https://github.com/Masahiro111/Udemy_Build_Complete_Blog_System_With_Laravel_9/blob/main/maiking.md)
