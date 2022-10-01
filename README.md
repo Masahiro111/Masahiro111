@@ -2,7 +2,7 @@
 
 Hi, I'm Masahiro111. Currently studying Laravel in Chiba, Japan. I'm working hard to be able to create applications mainly with TALL Stack ٩(ˊᗜˋ*)و
 
-## Language I'm Studying 💓
+## Framework I'm studying 💓
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Alpine.js](https://alpinejs.dev/)
 - [Laravel](https://laravel.com/)
