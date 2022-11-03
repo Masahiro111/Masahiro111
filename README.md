@@ -18,4 +18,4 @@ Love TALL Stack 😻
 ## G's ACADEMY Task 🏫
 - [00 - Cheese ACADEMY Generator](https://masahiro111.github.io/html_masahiro_T60/)
 - [01 - Janken app](https://masahiro111.github.io/kadai1_janken_1022/)
-- [02 - Cheese ACADEMY Generator](https://masahiro111.github.io/kadai2_jankenRich_1029/)
+- [02 - Janken Fantasy 10](https://masahiro111.github.io/kadai2_jankenRich_1029/)
