@@ -21,3 +21,4 @@ Love TALL Stack 😻
 - [02 - Janken Fantasy 10](https://masahiro111.github.io/kadai2_jankenRich_1029/)
 - [03 - G's Task Manager](https://masahiro111.github.io/kadai3_memo_1105/)
 - [04 - Simple chat](https://github.com/Masahiro111/kadai4_chat_1112)
+- [05 - G's BRAND EC Shop](https://masahiro111.sakura.ne.jp/kadai5/)
