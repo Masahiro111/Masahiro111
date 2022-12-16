@@ -10,6 +10,7 @@ Hi, I'm Masahiro111. Currently studying Laravel in Chiba, Japan. I'm working har
 - [04 - Simple chat](https://github.com/Masahiro111/kadai4_chat_1112)
 - [05 - G's BRAND EC Shop](https://masahiro111.sakura.ne.jp/kadai5/)
 - [06 - Surveys](https://masahiro111.sakura.ne.jp/kadai6/)
+- [07 - ScraBook](https://masahiro111.sakura.ne.jp/kadai7/)
 
 ## Training Cheet Sheat List 📝
 - [How to make Basic Blog System with Laravel](https://github.com/Masahiro111/Udemy_Build_Complete_Blog_System_With_Laravel_9/blob/main/maiking.md)
