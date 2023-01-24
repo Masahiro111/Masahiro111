@@ -13,7 +13,7 @@ Hi, I'm Masahiro111. Currently studying Laravel in Chiba, Japan. I'm working har
 - [07 - ScraBook](https://masahiro111.sakura.ne.jp/kadai7/)
 - [08 - Giita](https://masahiro111.sakura.ne.jp/kadai8/)
 - [09 - Chuitter](https://masahiro111.sakura.ne.jp/kadai9/)
-- [10 - SDG's ACADEMY](https://masahiro111.sakura.ne.jp/kadai9/](https://github.com/Masahiro111/kadai10_php5)
+- [10 - SDG's ACADEMY](https://github.com/Masahiro111/kadai10_php5)
 
 ## Training Cheet Sheat List 📝
 - [How to make Basic Blog System with Laravel](https://github.com/Masahiro111/Udemy_Build_Complete_Blog_System_With_Laravel_9/blob/main/maiking.md)
